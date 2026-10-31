@@ -30,7 +30,7 @@
 
 Open any archive, look inside, then click **Extract here** or **Extract to…**. Drop files in, pick a level, and click **Create .nait**. That's the whole app.
 
-## 📊 Live progress, 7-Zip style
+## 📊 Live progress
 
 <p align="center"><img src="assets/progress.png" alt="progress window" width="70%"></p>
 
